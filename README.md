@@ -40,6 +40,6 @@
 2. for Network Address Translator (NAT)：
     1. Use [花生壳] https://hsk.oray.com/
     2. 花生壳本地客户端：https://hsk.oray.com/download
-        2.1 linux
-        2.2 windows
+        1. linux
+        2. windows
     3. linux 教程 https://service.oray.com/question/11630.html
